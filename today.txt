@@ -1,0 +1,3 @@
+Tue Nov 17 18:05:20 2015 [tmate] Connecting to master.tmate.io...
+Tue Nov 17 18:05:21 2015 [tmate] Remote session read only: ssh ro-wWSvXAeydpXrzg75b0RqIqD64@sf1.tmate.io (clear your screen if you share this)
+Tue Nov 17 18:05:21 2015 [tmate] Remote session: ssh SK2CXp9fbYXPcP7kfGxbvbdCk@sf1.tmate.io
